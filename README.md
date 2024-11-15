@@ -20,19 +20,3 @@
   - kristiyal
   - Ramya
 
-## Project Demonstration
-
-<div align="center"><a href="https://drive.google.com/file/d/1-9KR5cm_pX3LjGDsFh9VZ8U8XQaRyLx-/preview" rel="noopener nofollow" target="_blank" title="Project Demo"><img src="https://cdn.jsdelivr.net/gh/devsiva003/NM-PBL-2023-AD-Wanderlust-Travel-Plan-App@main/public/images/proj-demo-thumbnail.png" alt="project_demo" title="Project Demo" /></a></div>
-
-<div align="center"><a href="https://drive.google.com/file/d/1-9KR5cm_pX3LjGDsFh9VZ8U8XQaRyLx-/preview" rel="noopener nofollow" target="_blank" title="Project Report">Click Here To Watch</a></div>
-
-## Project Report
-
-<div align="center"><a href="https://drive.google.com/file/d/1JZbWwVQTXVJpKq04xGffZiDW3-xa__oD/preview" rel="noopener nofollow" target="_blank" title="Project Report"><img src="https://cdn.jsdelivr.net/gh/devsiva003/NM-PBL-2023-AD-Wanderlust-Travel-Plan-App@main/public/images/Report-front-cover.png" alt="project_report" title="Project Report" /></a></div>
-
-<div align="center"><a href="https://drive.google.com/file/d/1JZbWwVQTXVJpKq04xGffZiDW3-xa__oD/preview" rel="noopener nofollow" target="_blank" title="Project Report">Click Here To Download</a></div>
-
-## Other Docs
-
-[Empathy Map](./docs/EmpathyMap_Wanderlust.pdf)<br>
-[Ideation & Brainstorming](./docs/BrainStorming_Wanderlust.pdf)
