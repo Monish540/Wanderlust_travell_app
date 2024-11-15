@@ -13,12 +13,12 @@
 
 ## Team
 
-- Team Id: **NM2023TMID32858**
+
 - Team Members
-  - Sankara Subramanian A (Team Lead) [g.dev/devsiva003](https://g.dev/devsiva003)
-  - Aarthis I
-  - Duraigopal S
-  - Vekatesh R
+  - Monish
+  - Noorul kowser
+  - kristiyal
+  - Ramya
 
 ## Project Demonstration
 
